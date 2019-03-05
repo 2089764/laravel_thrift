@@ -1,12 +1,12 @@
 {
-    "name": "yxc023/thrift-php-lib",
+    "name": "2089764/laravel_thrift",
     "type": "library",
     "description": "thrift php lib, use composer",
     "license": "MIT",
     "authors": [
         {
-            "name": "yangxiaochen",
-            "email": "yxc023@qq.com"
+            "name": "2089764",
+            "email": "2089764@qq.com"
         }
     ],
     "require": {

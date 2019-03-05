@@ -8,7 +8,7 @@ update at 2015-04-01 from:
 
 last stable verison:
 
-    "yxc023/thrift-php-lib": "0.9.2"
+    "2089764/laravel_thrift": "0.9.2"
 
 
     
